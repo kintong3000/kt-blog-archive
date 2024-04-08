@@ -1,3 +1,5 @@
+[[toc]]
+
 我之前从未想过构建一个属于自己的博客，我想有两个原因，首先自己学到的知识尚且比较浅薄，没什么有深度的内容可以输出，其二是自己不太习惯写文章（即使在书写这篇博客时，一段话也要思前想后，反复删除才写出来）。
 
 然而前段时间我看到一篇博客[You should blog even if you have no readers](http://nathanmarz.com/blog/you-should-blog-even-if-you-have-no-readers.html)，作者是Apache Storm的创始人Nathan。我开始思考博客的意义是什么。
